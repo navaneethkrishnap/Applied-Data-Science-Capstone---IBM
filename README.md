@@ -1,1 +1,1 @@
-# Applied-Data-Science-Capstone---IBM
+# :zap: Applied Data Science Capstone - IBM

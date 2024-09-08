@@ -12,3 +12,8 @@
 
 ## 1. Collecting the Data (API) 
  - we collect SpaceX launch data using the SpaceX REST API, process it into a structured format, and clean the dataset by filtering for Falcon 9 launches and handling missing values. The cleaned data is used to analyze and predict rocket landing attempts.
+
+## 2. Collecting Data with Webscraping
+-  Performing web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled `List of Falcon 9 and Falcon Heavy launches`
+-  Parsed data will be stored in pandas DataFrame object
+  
